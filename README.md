@@ -9,4 +9,4 @@ Below is a table of contents, which contains the folder name, folder order, file
 **Folder Name**|**Folder Order**|**File Name**|**File Order**|**File Description**
 :-----:|:-----:|:-----:|:-----:|:-----:
 Main|0|README.md|1|The README file contains the executive summary and overview of the project as a whole.
-data|1|01_Data_Gathering_and_Cleaning.ipynb|1|In this notebook I gather the raw and process the raw data.
+data|1|avocado.csv|1|This is the raw data I am working with on this project.
